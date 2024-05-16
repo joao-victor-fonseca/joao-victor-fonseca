@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/joao-victor-fonseca/joao-victor-fonseca/blob/5980af3834d12a532d52f8ae7db09e3d22cb7623/banner-joao-victor.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/joao-victor-fonseca/joao-victor-fonseca/blob/main/banner-joao-victor.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I'm João Victor Fonseca Assis, a Computer Science student with a passion for solving problems and absorbing new knowledge. Open to challenges and changes, I started my journey in technology with the aim of creating innovative digital solutions.I constantly seek to improve my skills through practical projects and online learning, complementing my academic training. I am currently looking for professional opportunities that will allow me to apply and expand my knowledge in software development.If interested in making professional connections or exploring collaborations, feel free to get in touch. I am excited to discuss synergies and opportunities for mutual growth.</p>&nbsp;
