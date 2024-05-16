@@ -19,7 +19,7 @@
 #### Stack:
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,nodejs,express,docker,firebase,styledcomponents,sass,tailwind,nextjs,prisma,babel,vercel,vite,vue,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,react,nextjs,nodejs,express,docker,firebase,styledcomponents,sass,tailwind,nextjs,prisma,babel,vercel,vite,vue,androidstudio,git,github&theme=dark" />
 </a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
@@ -31,7 +31,7 @@
 
 #### Workstation Tools:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=visualstudio,figma,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,notion,&theme=dark" />
 </a>
 
 &nbsp;
