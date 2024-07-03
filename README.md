@@ -19,7 +19,7 @@
 #### Stack:
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,react,nextjs,nodejs,express,docker,firebase,styledcomponents,sass,tailwind,nextjs,prisma,babel,vercel,vite,vue,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,react,nextjs,nodejs,express,docker,firebase,styledcomponents,sass,tailwind,prisma,babel,vercel,vite,vue,androidstudio,git,github&theme=dark" />
 </a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
@@ -40,10 +40,7 @@
 ## Contacts:
 
 <div> 
- <a href="https://github.com/joao-victor-fonseca" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="40" alt="Git Hub"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fonseca-assis-b17516207/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovictorfonsecaassis/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="40" alt="linkedin"   /> 
   </a>
   <a href="mailto:joaovictorfosecaassis@gmail.com" target="_blank">
