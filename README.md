@@ -1,7 +1,11 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/joao-victor-fonseca/joao-victor-fonseca/blob/main/banner-joao-victor.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I'm João Victor Fonseca Assis, a Computer Science student with a passion for solving problems and absorbing new knowledge. Open to challenges and changes, I started my journey in technology with the aim of creating innovative digital solutions.I constantly seek to improve my skills through practical projects and online learning, complementing my academic training. I am currently looking for professional opportunities that will allow me to apply and expand my knowledge in software development.If interested in making professional connections or exploring collaborations, feel free to get in touch. I am excited to discuss synergies and opportunities for mutual growth.</p>&nbsp;
+<p align="center">I am João Victor Fonseca Assis, a Computer Science student at Centro Universitário Una. I have a strong passion for software development and web technologies, with practical experience in various programming languages, including JavaScript, TypeScript, Java, and C#. My skills encompass modern frameworks like React, Next.js, Vue.js, and .NET, as well as essential tools such as Node.js, Docker, Git, and Prisma.
+
+I have developed several significant projects, including the "Radar Econômico," an application aimed at enhancing investment attractiveness in smaller cities, presented at the 6th International Conference on Future of Business, Management, and Economics in Copenhagen. Additionally, I have an active GitHub portfolio where I share my projects and contributions.
+
+My goal is to continue learning and applying my knowledge in a dynamic and collaborative professional environment, where I can contribute to innovative projects and grow as a developer. I am always seeking new challenges that allow me to improve my skills and make a positive impact through technology.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-victor-fonseca&theme=radical&mode=weekly" />
